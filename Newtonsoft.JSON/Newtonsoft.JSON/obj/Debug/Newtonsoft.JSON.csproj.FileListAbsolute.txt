@@ -1,0 +1,11 @@
+C:\Users\PC\source\repos\Newtonsoft.JSON\Newtonsoft.JSON\bin\Debug\Newtonsoft.JSON.exe.config
+C:\Users\PC\source\repos\Newtonsoft.JSON\Newtonsoft.JSON\bin\Debug\Newtonsoft.JSON.exe
+C:\Users\PC\source\repos\Newtonsoft.JSON\Newtonsoft.JSON\bin\Debug\Newtonsoft.JSON.pdb
+C:\Users\PC\source\repos\Newtonsoft.JSON\Newtonsoft.JSON\bin\Debug\Newtonsoft.Json.dll
+C:\Users\PC\source\repos\Newtonsoft.JSON\Newtonsoft.JSON\bin\Debug\Newtonsoft.Json.xml
+C:\Users\PC\source\repos\Newtonsoft.JSON\Newtonsoft.JSON\obj\Debug\Newtonsoft.JSON.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\Newtonsoft.JSON\Newtonsoft.JSON\obj\Debug\Newtonsoft.JSON.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\source\repos\Newtonsoft.JSON\Newtonsoft.JSON\obj\Debug\Newtonsoft.JSON.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Newtonsoft.JSON\Newtonsoft.JSON\obj\Debug\Newtonsoft.JSON.csproj.CopyComplete
+C:\Users\PC\source\repos\Newtonsoft.JSON\Newtonsoft.JSON\obj\Debug\Newtonsoft.JSON.exe
+C:\Users\PC\source\repos\Newtonsoft.JSON\Newtonsoft.JSON\obj\Debug\Newtonsoft.JSON.pdb
