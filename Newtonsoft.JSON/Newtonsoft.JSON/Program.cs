@@ -24,7 +24,7 @@ namespace Newtonsoft.JSON
                 Console.WriteLine(movieStar.Nationality);
 
                 // We use method to get the age of the user. Can be implemented in another way.
-                int age = new DateTime(DateTime.Now.Subtract(movieStar.dateOfBirth).Ticks).Year - 1;
+                int age = new DateTime(DateTime.Now.Subtract(movieStar.DateOfBirth).Ticks).Year - 1;
                 Console.WriteLine(age + " years old");
                 Console.WriteLine();
 
