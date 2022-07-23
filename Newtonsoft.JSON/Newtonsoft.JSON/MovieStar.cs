@@ -11,7 +11,7 @@ namespace Newtonsoft.JSON
     {
 
 
-        public DateTime dateOfBirth { get; set; }
+        public DateTime DateOfBirth { get; set; }
         public string Name { get; set; }
         public string Surname { get; set; }
         public string Sex { get; set; }
